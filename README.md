@@ -1,7 +1,5 @@
 # vanilla-js-calculator
 
-# Simple Vanilla JavaScript Calculator
-
 Welcome to the Simple Vanilla JavaScript Calculator project! This calculator is built using HTML, CSS, and JavaScript and provides basic mathematical operations, including addition, subtraction, multiplication, division, square root, exponentiation, and trigonometric functions.
 
 **[Check out the Calculator](index.html)**
